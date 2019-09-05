@@ -3,7 +3,6 @@ package programmers
 class Solution {
     fun solution(progresses: IntArray, speeds: IntArray): IntArray {
         var answer = mutableListOf<Int>()
-
         var days = 101
         var count = 0
         for (i in 0 until progresses.size) {
