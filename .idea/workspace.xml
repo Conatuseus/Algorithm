@@ -1,12 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="461f001c-6937-4dee-ae2f-fae47b97390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1978_byKotlin.kt" afterDir="false" />
+    <list default="true" id="461f001c-6937-4dee-ae2f-fae47b97390e" name="Default Changelist" comment="_b">
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10599_byKotlinKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1405_byKotlinKt$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1405_byKotlinKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt$main$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10040_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10040_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$$inlined$sortedBy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1027_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1027_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1043_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1043_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10708_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10708_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10799_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10799_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10800_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10800_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10801_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10801_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10837_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10837_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10942_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10942_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1173_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1173_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_12791_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_12791_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1328_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1328_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt$main$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt$main$Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1333_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1333_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1339_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1339_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1347_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1347_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13549_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13549_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14864_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14864_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1526_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1526_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt$main$pq$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt$main$pq$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1592_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1592_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15953_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15953_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15969_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15969_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15970_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15970_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15975_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15975_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17173_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17173_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1756_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1756_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1978_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1978_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2002_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2002_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2037_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2037_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2164_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2164_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt$main$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2482_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2482_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2512_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2512_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt$main$$inlined$sortedByDescending$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt$main$$inlined$sortedByDescending$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2745_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2745_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2792_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2792_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2869_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2869_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2872_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2872_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2897_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2897_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2980_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2980_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2997_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2997_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3005_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3005_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3048_ByKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3048_ByKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3058_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3058_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3062_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3062_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3076_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3076_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3372_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3372_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3985_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3985_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4641_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4641_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5046_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5046_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5338_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5338_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt$main$Triple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt$main$Triple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5566_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5566_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5600_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5600_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5624_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5624_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_6581_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_6581_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt$main$Triple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt$main$Triple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_9935_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_9935_byKotlinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/Feature_develop.kt" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,130 +163,22 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1043_byKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding>
-                <element signature="e#22#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1978_byKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-              <folding>
-                <element signature="e#22#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_17173_byKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_3062_byKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <element signature="e#22#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1328_byKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1173_byKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/ing_10942_byKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1043_byKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_17173_byKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/tmp.kt" />
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/ing_3075_byKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/ing_3062_byKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1978_byKotlin.kt" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <autoscrollToSource ProjectPane="false" />
-      <autoscrollFromSource ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ_byKotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1OXYxHt9VAhwVkls3fLrARqge2y" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -149,70 +189,76 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
-  <component name="RunManager" selected="Kotlin.BOJ_byKotlin.BOJ_1978_byKotlinKt">
-    <configuration name="BOJ_byKotlin.BOJ_17173_byKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.tmp">
+    <configuration name="iik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.iik" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmers.tmp" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_byKotlin.BOJ_10870_byKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BOJ_byKotlin.BOJ_17173_byKotlinKt" />
+      <option name="MAIN_CLASS_NAME" value="BOJ_byKotlin.BOJ_10870_byKotlinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_byKotlin.BOJ_1978_byKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kakao.AKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BOJ_byKotlin.BOJ_1978_byKotlinKt" />
+      <option name="MAIN_CLASS_NAME" value="kakao.AKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_byKotlin.BOJ_3062_byKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="kakao.CKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BOJ_byKotlin.BOJ_3062_byKotlinKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_byKotlin.Ing_10942_byKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BOJ_byKotlin.Ing_10942_byKotlinKt" />
+      <option name="MAIN_CLASS_NAME" value="kakao.CKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,12 +266,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.BOJ_byKotlin.BOJ_1978_byKotlinKt" />
-        <item itemvalue="Kotlin.BOJ_byKotlin.BOJ_3062_byKotlinKt" />
-        <item itemvalue="Kotlin.BOJ_byKotlin.BOJ_17173_byKotlinKt" />
-        <item itemvalue="Kotlin.BOJ_byKotlin.Ing_10942_byKotlinKt" />
+        <item itemvalue="Application.tmp" />
+        <item itemvalue="Application.iik" />
+        <item itemvalue="Kotlin.BOJ_byKotlin.BOJ_10870_byKotlinKt" />
+        <item itemvalue="Kotlin.kakao.CKt" />
+        <item itemvalue="Kotlin.kakao.AKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -245,12 +304,340 @@
       <workItem from="1561961450693" duration="1962000" />
       <workItem from="1561967263978" duration="458000" />
       <workItem from="1562298456309" duration="268000" />
-      <workItem from="1562299082494" duration="1351000" />
+      <workItem from="1562299082494" duration="11061000" />
+      <workItem from="1562480006689" duration="4348000" />
+      <workItem from="1562565522186" duration="242000" />
+      <workItem from="1562658534471" duration="5298000" />
+      <workItem from="1562930107904" duration="6078000" />
+      <workItem from="1563099195936" duration="3709000" />
+      <workItem from="1563284097361" duration="594000" />
+      <workItem from="1563364303881" duration="3219000" />
+      <workItem from="1563453748031" duration="584000" />
+      <workItem from="1563628561046" duration="725000" />
+      <workItem from="1563629802199" duration="427000" />
+      <workItem from="1563790526849" duration="1114000" />
+      <workItem from="1563884232071" duration="949000" />
+      <workItem from="1563957201364" duration="197000" />
+      <workItem from="1563962887761" duration="979000" />
+      <workItem from="1564056055060" duration="1088000" />
+      <workItem from="1564125655126" duration="5449000" />
+      <workItem from="1564327163743" duration="2711000" />
+      <workItem from="1564487934853" duration="588000" />
+      <workItem from="1564488545529" duration="251000" />
+      <workItem from="1564574207008" duration="887000" />
+      <workItem from="1564670586769" duration="773000" />
+      <workItem from="1564738646913" duration="4569000" />
+      <workItem from="1564813696889" duration="74000" />
+      <workItem from="1565006478770" duration="1078000" />
+      <workItem from="1565092710322" duration="1398000" />
+      <workItem from="1565166383094" duration="409000" />
+      <workItem from="1565247163011" duration="1318000" />
+      <workItem from="1565333699132" duration="171000" />
+      <workItem from="1565444592129" duration="1313000" />
+      <workItem from="1565445972723" duration="565000" />
+      <workItem from="1565518921063" duration="305000" />
+      <workItem from="1565618501040" duration="177000" />
+      <workItem from="1565701934632" duration="686000" />
+      <workItem from="1566396729181" duration="15000" />
+      <workItem from="1567693616491" duration="4538000" />
+      <workItem from="1567831499173" duration="15988000" />
+      <workItem from="1568129359860" duration="338000" />
+      <workItem from="1568132179450" duration="286000" />
+      <workItem from="1569376722000" duration="68000" />
+      <workItem from="1574255452139" duration="860000" />
+      <workItem from="1578039457419" duration="66000" />
+      <workItem from="1578421204689" duration="756000" />
+      <workItem from="1579854425903" duration="3201000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Solution of 10599">
+      <created>1562305815792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562305815793</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Solution of 1405">
+      <created>1562424294099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562424294099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Solution of 4179">
+      <created>1562482866320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562482866320</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add Solution of 4740">
+      <created>1562565449452</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562565449452</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Solution of 4949">
+      <created>1562677306536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562677306536</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Solution of 2729">
+      <created>1562931848987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562931848987</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Solution of 2751">
+      <created>1563017107735</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563017107735</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Solution of 10866">
+      <created>1563107549099</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563107549099</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Solution of 17266">
+      <created>1563188217826</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563188217826</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Solution of 17295">
+      <created>1563286672607</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1563286672608</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Solution of 17294">
+      <created>1563366662346</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563366662346</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add Solution of 17284">
+      <created>1563453594144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1563453594144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add Solution of 17284">
+      <created>1563454290751</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563454290751</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add Solution of 9546">
+      <created>1563629829818</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563629829818</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Solution of 11279">
+      <created>1563791685329</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563791685329</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add Solution of 1927">
+      <created>1563885185208</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563885185208</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add Solution of 11279">
+      <created>1563885256227</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1563885256227</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add Solution of 11286">
+      <created>1563963766471</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1563963766471</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add Solution of 11758">
+      <created>1564057372776</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1564057372776</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add Solution of 17293">
+      <created>1564129708872</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1564129708872</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add Solution of 12761">
+      <created>1564295977297</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1564295977297</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add Solution of 15665">
+      <created>1564488126070</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1564488126070</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add Solution of 15666">
+      <created>1564488502583</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1564488502583</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add Solution of 10171">
+      <created>1564575091889</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1564575091889</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add Solution of 17283">
+      <created>1564671393283</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1564671393283</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add Solution of 3671">
+      <created>1564813033516</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1564813033517</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add Solution of 2555">
+      <created>1565007877515</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1565007877515</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Add Solution of 17174">
+      <created>1565094373412</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1565094373412</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add solution of 11723">
+      <created>1565248171942</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1565248171942</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add solution of 12096">
+      <created>1565333806598</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1565333806598</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Add solution of 2578">
+      <created>1565445886265</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1565445886265</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add solution of 10951">
+      <created>1565519108543</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1565519108543</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add solution of 5339">
+      <created>1565618675097</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1565618675097</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add solution of 15740">
+      <created>1565702634845</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1565702634845</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Solution of Feature_develop">
+      <created>1567695472063</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1567695472063</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Solution of Feature_develop">
+      <created>1567695502457</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1567695502457</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Solution of Trial_exam">
+      <created>1567697493871</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1567697493871</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Solution of Top">
+      <created>1567748041848</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1567748041848</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add solution of 10870_byKotlin">
+      <created>1574255719796</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1574255719796</updated>
+    </task>
+    <task id="LOCAL-00040" summary="프로그래머스 &lt;완주하지 못한 선수&gt; by Java">
+      <created>1579855776162</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1579855776162</updated>
+    </task>
+    <task id="LOCAL-00041" summary="프로그래머스 &lt;더맵게&gt;">
+      <created>1579857375465</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1579857375465</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9767000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,44 +648,79 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2026862" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995327" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943925" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32857144" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32959184" />
-      <window_info anchor="bottom" id="CheckStyle" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32967034" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Solution of 1927" />
+    <MESSAGE value="Add Solution of 11279" />
+    <MESSAGE value="Add Solution of 11286" />
+    <MESSAGE value="Add Solution of 11758" />
+    <MESSAGE value="Add Solution of 17293" />
+    <MESSAGE value="Add Solution of 12761" />
+    <MESSAGE value="Add Solution of 15665" />
+    <MESSAGE value="Add Solution of 15666" />
+    <MESSAGE value="Add Solution of 10171" />
+    <MESSAGE value="Add Solution of 17283" />
+    <MESSAGE value="Add Solution of 3671" />
+    <MESSAGE value="Add Solution of 2555" />
+    <MESSAGE value="Add Solution of 17174" />
+    <MESSAGE value="Add solution of 11723" />
+    <MESSAGE value="Add solution of 12096" />
+    <MESSAGE value="Add solution of 2578" />
+    <MESSAGE value="Add solution of 10951" />
+    <MESSAGE value="Add solution of 5339" />
+    <MESSAGE value="Add solution of 15740" />
+    <MESSAGE value="Solution of Feature_develop" />
+    <MESSAGE value="Solution of Trial_exam" />
+    <MESSAGE value="Solution of Top" />
+    <MESSAGE value="Add solution of 10870_byKotlin" />
+    <MESSAGE value="프로그래머스 &lt;완주하지 못한 선수&gt; by Java" />
+    <MESSAGE value="프로그래머스 &lt;더맵게&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 &lt;더맵게&gt;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1579859587227">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1579859587227" />
+    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1579863324872">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324872" />
+    <state width="1636" height="318" key="GridCell.Tab.0.bottom" timestamp="1579863324905">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="318" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324905" />
+    <state width="1636" height="318" key="GridCell.Tab.0.center" timestamp="1579863324902">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="318" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324902" />
+    <state width="1636" height="318" key="GridCell.Tab.0.left" timestamp="1579863324901">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="318" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324901" />
+    <state width="1636" height="318" key="GridCell.Tab.0.right" timestamp="1579863324903">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="318" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324903" />
+    <state x="505" y="233" key="search.everywhere.popup" timestamp="1579856655946">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1579856655945" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,68 +728,35 @@
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/BOJ_byKotlin/ing_10942_byKotlin.kt</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_12761_byKotlin.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_15665_byKotlin.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_17283_byKotlin.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kakao/D.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kakao/C.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/ing_10942_byKotlin.kt" />
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/tmp.kt" />
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1328_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1173_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/ing_3075_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="e#22#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_17173_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_3062_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#22#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1043_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#22#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BOJ_byKotlin/BOJ_1978_byKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding>
-            <element signature="e#22#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -408,7 +797,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>11</last-edited>
+          <last-edited>12.0.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -425,7 +814,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
