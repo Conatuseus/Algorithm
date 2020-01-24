@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="461f001c-6937-4dee-ae2f-fae47b97390e" name="Default Changelist" comment="_b">
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10599_byKotlinKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1405_byKotlinKt$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1405_byKotlinKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt$main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt$main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt$main$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4179_byKotlinKt.class" afterDir="false" />
+    <list default="true" id="461f001c-6937-4dee-ae2f-fae47b97390e" name="Default Changelist" comment="프로그래머스 &lt;전화번호 목록&gt;">
+      <change afterPath="$PROJECT_DIR$/src/programmers/위장.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -106,7 +100,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1756_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1756_byKotlinKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt$main$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1978_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1978_byKotlinKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2002_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2002_byKotlinKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2037_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2037_byKotlinKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt$main$1.class" afterDir="false" />
@@ -152,8 +145,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt$main$Triple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt$main$Triple.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_9935_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_9935_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/META-INF/Algorithm.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programmers/Feature_develop.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -347,7 +338,7 @@
       <workItem from="1574255452139" duration="860000" />
       <workItem from="1578039457419" duration="66000" />
       <workItem from="1578421204689" duration="756000" />
-      <workItem from="1579854425903" duration="3201000" />
+      <workItem from="1579854425903" duration="4586000" />
     </task>
     <task id="LOCAL-00001" summary="Add Solution of 10599">
       <created>1562305815792</created>
@@ -636,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579857375465</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="프로그래머스 &lt;전화번호 목록&gt;">
+      <created>1579863341371</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1579863341371</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView">
@@ -665,7 +663,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Solution of 1927" />
     <MESSAGE value="Add Solution of 11279" />
     <MESSAGE value="Add Solution of 11286" />
     <MESSAGE value="Add Solution of 11758" />
@@ -690,17 +687,18 @@
     <MESSAGE value="Add solution of 10870_byKotlin" />
     <MESSAGE value="프로그래머스 &lt;완주하지 못한 선수&gt; by Java" />
     <MESSAGE value="프로그래머스 &lt;더맵게&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 &lt;더맵게&gt;" />
+    <MESSAGE value="프로그래머스 &lt;전화번호 목록&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 &lt;전화번호 목록&gt;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1579859587227">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1579859587227" />
-    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1579863324872">
+    <state x="434" y="127" key="CommitChangelistDialog2" timestamp="1579863341045">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324872" />
+    <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579863341045" />
     <state width="1636" height="318" key="GridCell.Tab.0.bottom" timestamp="1579863324905">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
