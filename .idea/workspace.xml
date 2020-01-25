@@ -2,149 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461f001c-6937-4dee-ae2f-fae47b97390e" name="Default Changelist" comment="프로그래머스 &lt;전화번호 목록&gt;">
-      <change afterPath="$PROJECT_DIR$/src/programmers/위장.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10040_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10040_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$$inlined$sortedBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$$inlined$sortedBy$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt$main$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10165_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1027_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1027_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1043_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1043_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10708_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10708_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10799_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10799_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10800_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10800_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10801_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10801_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10804_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10835_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10837_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10837_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10942_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_10942_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11004_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_11725_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1173_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1173_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_12791_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_12791_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1328_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1328_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt$main$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt$main$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13304_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1331_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1333_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1333_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1339_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1339_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1347_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1347_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13549_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_13549_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt$main$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14500_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14864_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14864_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_14891_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1526_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1526_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15649_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15650_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15651_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15652_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15654_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15655_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15656_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15657_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15663_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15664_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt$main$pq$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt$main$pq$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15903_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1592_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1592_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15953_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15953_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15969_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15969_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15970_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15970_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15971_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15975_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_15975_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_16724_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17127_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17129_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17130_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17173_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_17173_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1756_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1756_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_1952_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2002_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2002_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2037_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2037_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2140_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2164_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2164_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt$main$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt$main$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2194_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2234_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2482_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2482_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2485_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2512_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2512_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt$main$$inlined$sortedByDescending$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt$main$$inlined$sortedByDescending$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2535_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2745_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2745_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2792_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2792_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2799_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2869_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2869_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2872_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2872_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2897_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2897_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2980_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2980_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2997_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_2997_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3005_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3005_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3048_ByKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3048_ByKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3054_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3058_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3058_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3062_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3062_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3076_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3076_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3372_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3372_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3985_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_3985_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4641_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_4641_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5046_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5046_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5338_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5338_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt$main$Triple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt$main$Triple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5549_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5566_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5566_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5600_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5600_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5624_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_5624_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_6581_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_6581_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt$main$Triple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt$main$Triple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_8980_byKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_9935_byKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/BOJ_byKotlin/BOJ_9935_byKotlinKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,7 +196,7 @@
       <workItem from="1574255452139" duration="860000" />
       <workItem from="1578039457419" duration="66000" />
       <workItem from="1578421204689" duration="756000" />
-      <workItem from="1579854425903" duration="4586000" />
+      <workItem from="1579854425903" duration="4936000" />
     </task>
     <task id="LOCAL-00001" summary="Add Solution of 10599">
       <created>1562305815792</created>
@@ -699,22 +557,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="434" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1579863341045" />
-    <state width="1636" height="318" key="GridCell.Tab.0.bottom" timestamp="1579863324905">
+    <state width="1636" height="318" key="GridCell.Tab.0.bottom" timestamp="1579870731115">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="318" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324905" />
-    <state width="1636" height="318" key="GridCell.Tab.0.center" timestamp="1579863324902">
+    <state width="1636" height="318" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1579870731115" />
+    <state width="1636" height="318" key="GridCell.Tab.0.center" timestamp="1579870731114">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="318" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324902" />
-    <state width="1636" height="318" key="GridCell.Tab.0.left" timestamp="1579863324901">
+    <state width="1636" height="318" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1579870731114" />
+    <state width="1636" height="318" key="GridCell.Tab.0.left" timestamp="1579870731113">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="318" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324901" />
-    <state width="1636" height="318" key="GridCell.Tab.0.right" timestamp="1579863324903">
+    <state width="1636" height="318" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1579870731113" />
+    <state width="1636" height="318" key="GridCell.Tab.0.right" timestamp="1579870731115">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1636" height="318" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579863324903" />
+    <state width="1636" height="318" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1579870731115" />
     <state x="505" y="233" key="search.everywhere.popup" timestamp="1579856655946">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
