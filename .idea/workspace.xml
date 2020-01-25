@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461f001c-6937-4dee-ae2f-fae47b97390e" name="Default Changelist" comment="프로그래머스 &lt;전화번호 목록&gt;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/베스트앨범.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -197,6 +197,7 @@
       <workItem from="1578039457419" duration="66000" />
       <workItem from="1578421204689" duration="756000" />
       <workItem from="1579854425903" duration="4936000" />
+      <workItem from="1579953019336" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="Add Solution of 10599">
       <created>1562305815792</created>
