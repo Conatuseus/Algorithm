@@ -1,4 +1,4 @@
-package `2019-kakao-intern`
+package kakaoitern2019
 
 import java.util.*
 
